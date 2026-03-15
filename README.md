@@ -13,7 +13,7 @@
 
 ## About
 
-- Based in Singapore
+- Based in Singapore / India
 - 11+ years in offensive security across fintech, government, trading, healthcare, and SaaS
 - Work across web, API, mobile, cloud, and red team engagements
 - I like hands-on testing, building small tools, and following a finding until it becomes a real attack path

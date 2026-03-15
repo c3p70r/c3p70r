@@ -11,17 +11,12 @@
   <img src="https://img.shields.io/badge/Offensive%20Research-111111?style=flat-square&labelColor=111111&color=2a2a2a" alt="Offensive Research" />
 </p>
 
-```text
-$ whoami
-offensive security consultant based in singapore
+## About
 
-$ profile
-11+ years across fintech, government, trading, healthcare, and SaaS
-focus on web, api, mobile, cloud, and red team engagements
-
-$ approach
-hands-on testing, small tools, exploit validation, practical remediation
-```
+- Based in Singapore
+- 11+ years in offensive security across fintech, government, trading, healthcare, and SaaS
+- Work across web, API, mobile, cloud, and red team engagements
+- I like hands-on testing, building small tools, and following a finding until it becomes a real attack path
 
 ## Work
 
